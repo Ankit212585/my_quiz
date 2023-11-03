@@ -1,0 +1,80 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    background-color: #2b3252;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.div0{
+    width: 100%;
+    height: 100%;
+     
+}
+.h1{
+    color: yellow;
+    text-align: center;
+    margin-top: 70px;
+}
+.quiz-box{
+   display: inline-flexbox;
+    gap: 100px;
+    border-radius: 20px;
+    position: absolute;
+    margin-top: 30px;
+    right: 360px;
+     background-color: #2b3252;  
+    width: 800px;
+    height: 890px;
+}
+#submit-button{
+    position: absolute;
+    font-size: 20px;
+    background-color: #2b3252;
+    color: yellow;
+    border-radius: 5px;
+    padding: 10px;
+    right: 355px ;
+    bottom: 10px;
+}
+.result-box{
+    position: absolute;
+    color: yellow;
+    margin-top: 120px;
+    right: 204px;
+    width: 150px;
+    height: 150px;
+    box-shadow: 2px 2px 2px 2px black;
+    border-radius: 7px;
+    text-align: center;
+    padding-top: 40px;
+    font-size: 30px;
+}
+#timer{
+    background-color: black;
+    color: yellow;
+    position: absolute;
+    margin-top: 30px;
+    right: 204px;
+    font-size: 30px;
+    height: 80px;
+    width: 150px;
+    text-align: center;
+    padding-top: 25px;
+    border-radius: 10px;
+}
+.quiz-list{
+    list-style: none;
+    padding: 10px;
+    background-color: #2b3252;
+}
+.quiz_Item{
+    color: #fad744;
+    background-color: #2b3252
+}
+.quiz_Item ul li{
+    list-style: none;
+    padding: 8px 0;
+background-color: #2b3252;
+}
+
