@@ -15,13 +15,13 @@
   const question = [{
     "id":1,
     "answer":"Paris",
-    "question":"What isthecapitalofFrance?",
+    "question":"What is th ecapital of France?",
     "options":["NewYork","London","Paris","Dublin"]
 },
 {
     "id":2,
-    "answer":"LeonardoDaVinci",
-    "question":"WhopaintedtheMonaLisa?",
+    "answer":"Leonardo DaVinci",
+    "question":"Who painted the MonaLisa?",
     "options":["VincentVanGogh","PabloPicasso","LeonardoDaVinci","ClaudeMonet"]
 },
 {
